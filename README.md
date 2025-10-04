@@ -17,9 +17,17 @@
 
 ###
 
+<h3 align="center">Visitas no perfil</h3>
+
+###
+
 <div align="center">
-  <img src="https://count.getloli.com/@:JaoPred0?theme=rule34&padding=4&offset=0&scale=1.2&align=center&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:JaoPred0?theme=rule34&padding=4&offset=1&scale=1.2&align=center&pixelated=1&darkmode=auto"  />
 </div>
+
+###
+
+<h3 align="center">Skils</h3>
 
 ###
 
@@ -38,6 +46,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
+
+###
+
+<h3 align="center">Redes Sociais</h3>
 
 ###
 
