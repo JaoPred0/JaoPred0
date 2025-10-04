@@ -2,9 +2,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JaoPred0/JaoPred0/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JaoPred0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
