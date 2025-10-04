@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:JaoPred0?theme=rule34&padding=4&offset=1&scale=1.2&align=center&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:JaoPred0?theme=rule34&padding=4&offset=0&scale=1.2&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
